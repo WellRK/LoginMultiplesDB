@@ -1,0 +1,1 @@
+pm2 start npm --name "xequemate-api-dev" -- run "start:dev"
